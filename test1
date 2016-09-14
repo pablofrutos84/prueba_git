@@ -8,6 +8,12 @@ Segundo ejercicio cuarto commi
 
 Tercer ejercicio, branch de features
 
+<<<<<<< HEAD
 Merge with conflicts 1
 
 Merge with conflicts 2
+=======
+Merge with conflicts 3 (features 2)
+
+Merge with conflicts 4 (features 2)
+>>>>>>> refs/heads/features/feature2
